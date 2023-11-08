@@ -1,2 +1,16 @@
-# HelloZurich
-Welcome to Zurich - A quick start guide
+- SRF [Web](https://www.srf.ch): Swiss Radio & Television; Think "Swiss BBC"
+- Comparis [Web](https://comparis.ch): Comparison Portal
+- Beobachter [Web](https://beobachter.ch) / KTipp [Web](https://www.ktipp.ch): Consumer protection
+- Tutti [Web](https://tutti.ch) / Ricardo [Web](https://ricardo.ch): Second-hand; Think "Swiss Ebay"
+- SBB Mobile [App](https://apps.apple.com/ch/app/sbb-mobile/id294855237): Public transportation; [Halbtax](https://www.sbb.ch/de/abos-billette/abonnemente/halbtax.html): 50% off public transport
+- MeteoSuisse [App](https://apps.apple.com/ch/app/meteoswiss/): Swiss Weather
+- Mobility [Web](https://www.mobility.ch) / [App](https://apps.apple.com/us/app/mobility-carsharing/id1620189067): Car sharing
+- Local.ch [Web](https://www.local.ch) / [App](https://apps.apple.com/ch/app/local-ch/id300110733): Phone directory; The App allows to block marketing calls
+- Play Suisse [Web](https://www.playsuisse.ch): Think "free Netflix for Swiss films"
+- Stash [Web](https://stash.ch): Grocery deliveries; Note: Also Migros & Coop deliver
+- Just Eat [Web](https://www.just-eat.ch): Order takeout
+- Digitec [Web](https://digitec.ch) / Galaxus [Web](https://galaxus.ch): Think "Swiss Amazon"
+- Yallo Black [Web](https://www.yallo.ch/de/mobile-products/yallo_black), Swype [Web](https://swype.ch): Cheapest mobile subscription; Yallo black just on Black Friday
+- Komoot [Web](https://www.komoot.com): Hiking
+- Migros Cumulus [Web](https://cumulus.migros.ch), Coop Supercard [Web](https://www.supercard.ch): Loyalty programs
+- Twint [Web](https://www.twint.ch): Mobile payments
