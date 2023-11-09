@@ -1,4 +1,5 @@
 - SRF [Web](https://www.srf.ch): Swiss Radio & Television; Think "Swiss BBC"
+- SRF Dok [Web](https://www.srf.ch/sendungen/dok) / [Youtube](https://www.youtube.com/@srfdok): Documentaries about life in Switzerland
 - Comparis [Web](https://comparis.ch): Comparison Portal
 - Beobachter [Web](https://beobachter.ch) / KTipp [Web](https://www.ktipp.ch): Consumer protection
 - Tutti [Web](https://tutti.ch) / Ricardo [Web](https://ricardo.ch): Second-hand; Think "Swiss Ebay"
